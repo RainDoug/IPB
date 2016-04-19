@@ -1,0 +1,133 @@
+/*		GNwhy Stylesheet
+ *		John Reeve
+ *
+ *		Blue:		00558c
+ *		green:	009e83
+ *		Maroon: 083918
+ */
+ /* === Global ===*/
+
+body{background-color:#FFF; background-image:url('images/woodPanel.jpg'); background-repeat:repeat; margin-top:0px; text-align:center}
+body{font-family:Georgia,Utopia,Palatino,'Palatino Linotype',serif;}
+#mainContainer{position:relative;width:1000px;height:100%;margin:10px auto;background-color:#FFF;text-align:left;}
+.color1 {background:#6E5300}
+.color2 {background:#FBB03F}
+.color3 {background:#6E5300}
+.color3A {background:#FBB03F}
+
+
+ /* ===  HEADER ===  */
+
+.logo{
+	position:absolute;
+	top:0;
+	left:20px;
+	margin-top: 20px;
+	margin-left: -20px;
+}
+#lesserNav{position:relative;float:right;font-size:80%;margin-top:20px;height:40px;}/*IE-- width*/
+#linkBar {float:right;color:#333;margin-right:10px;}
+#linkBar a {margin-right:10px;text-decoration:none;color:#333;}
+#linkBar a:hover {text-decoration:underline;color:#999;}
+#snContainer{float:right;;padding:5px;border:1px solid #ccc;text-align:center;font-size:60%;text-transform:uppercase;color:#999}
+.snConnect{}
+.snHeader li {display:inline;}
+ /* ===  Main Nav ===  */
+
+.contentNav{clear:both;float:right;margin-top:30px;padding-bottom:10px;font-size:80%;z-index:100;} /*IE-- width*/
+.contentNav a {text-decoration:none;color:#FFF;}
+.contentNav a:hover {text-decoration:underline;color:#666;}
+.contentNav ul {}
+.contentNav ul li {position:relative;display:inline-block;margin-left:10px;padding:5px;width:160px;text-align:center;zoom: 1;*display:inline;z-index:100;}
+/*#contentNav ul li ul {display:none;position:absolute;top:18px;left:0;width:160px;height:255px;padding:5px;z-index:100;}
+#contentNav ul li ul {font-size:90%;z-index:100;}
+#contentNav ul li ul li {position:relative;display:block;padding:0;border:none;text-align:left;line-height:22px;width:170px}
+#contentNav{}*/
+.contentNav div {visibility:hidden;position:absolute;top:18px;left:0;width:160px;height:255px;padding:5px;font-size:95%;z-index:100;overflow:hidden;}
+.contentNav div a {display:block;text-align:left;text-decoration:none;padding:0;border:none;width:170px;margin-bottom:5px;}
+.contentNav div a:hover {text-decoration:underline;color#666;}
+/*.subMenu {font-size:110%}
+.subMenu color3A  ul li ul{display:none;position:absolute;top:18px;left:0;width:160px;height:355px;padding:5px;}*/
+
+
+
+ /* ===  Slideshow ===  */
+
+#blingBar {clear:both;width:1000px;height:250px;position:relative;z-index:10;}
+ 
+ /* ===  Central ===  */
+ #contentContainer{position:relative;overflow:hidden;z-index:10;}
+ #contentContainer{background-image:url('../images/contentBG.png');background-repeat:repeat-y;}
+ #bodytext{float:left;width:710px;background:#FFF;min-height:550px;padding:20px;}
+ #bodytext {font-size:90%;color:#333;letter-spacing:1px;text-align:justify}
+ #bodytext h1 {margin:20px 0;padding:3px;border-bottom:1px #666 dotted;font-size:120%;color:#333;text-align:left;}
+ #bodytext h2 {margin:20px 0;padding:3px;border-bottom:1px #666 dotted;font-size:110%;color:#333;text-align:left;}
+ #bodytext h3 {margin:20px 0;padding:3px;font-size:100%;color:#333;text-align:left;}
+
+ #bodytext  p {margin-bottom:20px;line-height:130%;}
+ #bodytext li {margin-bottom:20px;line-height:130%;}
+ 
+ #bodytext a {text-decoration:underline;color:#083918}
+ #bodytext a:hover {text-decoration:underline;color:#999;}
+ 
+ .indent {margin-left:30px;}
+ /* ===  Pages ===  */
+ .aboutPhoto {float:left;margin: 0 10px 10px 0}
+ .contactLocation {margin:0 0 30px 30px;line-height:20px;}
+ .contactLocation h2 {font-size:120%;margin-bottom:20px;}
+ .contactTable td {padding:0 5px 5px 0;}
+ .carrierTable {margin-left:40px;}
+ .carrierTable td {padding:20px;}
+ .hrConnect {margin: 0 0 10px 10px;float:right;border:1px solid #ccc;background:#FFF}
+ .hrConnect li {padding:10px;text-align:center;}
+ .testimonials{padding-left:30px}
+ .biotech { border:1px solid #000;}
+ .biotech td {border:1px solid #666;padding:20px;}
+ 
+ /* ===  Sidebar ===  */
+ #sidebar {float:left;width:200px;padding-bottom:25px;padding-left:10px;padding-right:40px;text-align:left;font-size:90%;color:#DDD;}
+ #sidebar p {margin-bottom:10px;padding:0 10px;width:175px;line-height:120%}
+ #sidebar p a {text-decoration:none;color:#ccc}
+ #sidebar p a:hover {text-decoration:underline;color:#fff}
+ #sidebar h1 {font-size:120%;margin:20px 0;padding:3px;color:#FFF;}
+ #sidebar h2 {margin:20px 0;padding:3px;border-bottom:1px #666 dotted;color:#FFF;}
+ #sidebar h3 {margin:20px 0;padding:3px;}
+ .quickContact p {padding:0;}
+ 
+ /*== Forms ==*/
+
+.generalForm fieldset legend{background:#FFF;border:1px solid #999;font-size:110%;font-weight:bold;}
+.generalForm fieldset {position:relative;top:0;left:0;border:1px dotted #999;margin-top:25px;padding:15px 20px;font-size:120%;font-weight:bold;}
+.generalForm fieldset ul {marign-top:30px;padding-top:3px;}
+.generalForm fieldset ul li{position:relative;padding:8px 10px;font-size:90%;letter-spacing:110%;font-weight:normal;line-height:100%;margin:0; list-style:none;}
+.generalForm fieldset input{position:absolute;top:4;right:0;height:15px;margin-right:200px;}
+.generalForm fieldset select{position:absolute;top:4;right:0;height:20px;margin-right:200px;}
+.generalForm input {width:200px;border:1px solid #999;font-size:100%}
+.generalForm input[type="checkbox"] {width:auto;border:none;font-size:100%}
+.generalForm textarea {font-family:Verdana,Geneva,Kalimati,sans-serif;border:1px solid #999;font-size:100%; -moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;}
+.generalForm  .submitButton {width:80px;margin-top:10px;padding:4px;border:1px #333 solid;font-size:100%;letter-spacing:120%;font-weight:bold;color:#6e5300; background-color:#FFF;}
+.generalForm p {text-align:center;}
+.generalForm{}
+.pageFormTextBox{width:500px;}
+.sidebarTextBox{width:198px;}
+
+ /* ===  Footer ===  */
+ #footerContainer{clear:both;position:relative;padding-top:10px;}
+ #footerContainer{background-image:url('../images/footerBG.png');background-repeat:repeat-x;}
+ #footerContainer{text-align:center;font-size:90%;color:#ddd;letter-spacing:2px;}
+ #footerContainer a {color:#ddd;text-decoration:none;}
+ #footerContainer a:hover {color:#aaa;text-decoration:underline;}
+ #footerContainer div {display:inline-block;margin-right:40px;zoom: 1;*display:inline}
+ #footerNav{text-align:left;}
+ #footerNav{}
+ #legal {text-align:center;}
+ #footerSM li {display:inline;}
+ #footerSM{}
+ .power{}
+ .snFooter{}
+ #footerDesc{float:none;clear:both;margin-top:20px;padding:5px 0 ;border-top:1px #CCC dotted;}
+ /* ===  Misc ===  */
+ .clear {clear:both;}
+ /* ===   ===  */

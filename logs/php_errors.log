@@ -1,0 +1,2 @@
+[18-Apr-2016 18:15:28 America/Chicago] PHP Strict Standards:  Non-static method Mail::factory() should not be called statically in /mnt/stor3-wc2-dfw1/512462/620430/www.hennesseyinsurance.com/web/content/formEmailer.php on line 81
+[18-Apr-2016 18:15:29 America/Chicago] PHP Deprecated:  Non-static method Mail_RFC822::parseAddressList() should not be called statically, assuming $this from incompatible context in /usr/share/php/Mail.php on line 253
