@@ -2,7 +2,7 @@
 <?php 	//Set Page Specific Vars Here 
         $pageTitle="Vehicle Insurance";
         $pageMetaKeyword="auto insurance Florida, car insurance Florida, classic car insurance Florida, motorcycle insurance Florida, boat insurance Florida, watercraft insurance Florida";
-        $pageMetaDescription="At Hennessey Insurance Services, you won't find celebrity spokespersons or talking animals to promote our auto insurance, just experienced, knowledgeable agents ready to offer you quality coverage at affordable prices.";
+        $pageMetaDescription="At Insurance Professionals of Brevard, you won't find celebrity spokespersons or talking animals to promote our auto insurance, just experienced, knowledgeable agents ready to offer you quality coverage at affordable prices.";
         $pagePhoto="banner_auto_insurance.jpg";
         $pagePhotoAlt="ATV Insurance, RV Insurance";
 ?>
@@ -11,9 +11,9 @@
 
 <div id="bodytext" class="column">
 <h1>Vehicle Insurance<!-- in <?php echo $stateName;?>--></h1>
-<p>At Hennessey Insurance Services, you won't find celebrity spokespersons or talking animals to promote our auto insurance, just experienced, knowledgeable agents ready to offer you quality coverage at affordable prices.</p>
+<p>At Insurance Professionals of Brevard, you won't find celebrity spokespersons or talking animals to promote our auto insurance, just experienced, knowledgeable agents ready to offer you quality coverage at affordable prices.</p>
 <p>Whether you need to coverage for your standard automobiles, classic cars, motorcycles, recreational vehicles or boat and watercraft, let us review your insurance needs and tailor a program to your needs.</p>
-<p>Start a <a href="quote.php?type=personal">Free Rate Quote</a> or call us at 321-752-5266 and let the professional insurance agents at Hennessey Insurance Services demonstrate our dedication to be your path to peace of mind.</p>
+<p>Start a <a href="quote.php?type=personal">Free Rate Quote</a> or call us at 321-752-5266 and let the professional insurance agents at Insurance Professionals of Brevard demonstrate our dedication to be your path to peace of mind.</p>
 
 
 <div class="servicesList">

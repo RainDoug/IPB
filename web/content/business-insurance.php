@@ -2,7 +2,7 @@
 <?php 	//Set Page Specific Vars Here 
         $pageTitle="Commercial Insurance";
         $pageMetaKeyword="Cocoa Beach insurance, Melbourne Beach insurance, commercial property insurance Florida, general liability insurance Florida, workers comp Florida, workers compensation Florida, umbrella insurance Florida, bonds Florida";
-        $pageMetaDescription="Hennessey Insurance Services understands how the right insurance can protect you and your business from any unforeseen liabilities.";
+        $pageMetaDescription="Insurance Services of Brevard understands how the right insurance can protect you and your business from any unforeseen liabilities.";
         $pagePhoto="banner_commercial_insurance.jpg";
         $pagePhotoAlt="Independent Insurance Agent for $state";
 		//$actionArea="<ul><li><a href='#'>john</a></li><li><a href='#'>bob dobbs</a></li></ul>";

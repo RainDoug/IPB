@@ -3,7 +3,7 @@
 <?php 	//Set Page Specific Vars Here 
 		$pageTitle="Home";
         $pageMetaKeyword="Melbourne Florida insurance, auto insurance Florida, car insurance Florida, property insurance Florida, commercial insurance Florida, life insurance Florida, health insurance Florida, Progressive Florida, Fidelity Florida, Travelers insurance Florida ";
-        $pageMetaDescription="Hennessey Insurance Services has been helping businesses and residents in Melbourne and in communities across Florida area protect what matters most to them through our quality, affordable insurance products.";
+        $pageMetaDescription="Insurance Services of Brevard has been helping businesses and residents in Melbourne and in communities across Florida area protect what matters most to them through our quality, affordable insurance products.";
 
 ?>
 
@@ -15,11 +15,11 @@
 	<img src="images/shortheader.jpg" border="0" /><br /><br />
 	<!--<h1 style="clear:both"><? echo $businessName;?></h1>-->
 	
-	<p>Since 2005, Hennessey Insurance Services has been helping businesses and residents in Melbourne and in communities across Florida area protect what matters most to them through our quality, affordable insurance products.</p>
+	<p>Since 2005, Insurance Services of Brevard has been helping businesses and residents in Melbourne and in communities across Florida area protect what matters most to them through our quality, affordable insurance products.</p>
 
-<p>With an abundance of quality insurance policies spanning auto, property and commercial to life and health, the professional insurance agents at Hennessey Insurance Services understand the unique needs of communities in and around the Melbourne, Florida area. With a network of more than 17 providers including Progressive, Fidelity, and Travelers, among many others, we can compare coverage and price to give you the best possible value.</p>
+<p>With an abundance of quality insurance policies spanning auto, property and commercial to life and health, the professional insurance agents at Insurance Services of Brevard understand the unique needs of communities in and around the Melbourne, Florida area. With a network of more than 17 providers including Progressive, Fidelity, and Travelers, among many others, we can compare coverage and price to give you the best possible value.</p>
 
-<p>We value the opportunity to learn how we can work for you. Call one of our experienced agents today at 321-752-5266 and let Hennessey Insurance Services demonstrate our dedication to delivering quality insurance policies that include comprehensive value and superior customer care.</p>
+<p>We value the opportunity to learn how we can work for you. Call one of our experienced agents today at 321-752-5266 and let Insurance Services of Brevard demonstrate our dedication to delivering quality insurance policies that include comprehensive value and superior customer care.</p>
 	
 	
 	
